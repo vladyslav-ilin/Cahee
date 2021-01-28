@@ -787,6 +787,7 @@ body {
    }
    .form {
 		background: url("../images/form-bgr.jpg") no-repeat center center;
+		background-size: cover;
 		padding: 95px 120px;
 	}
 	.form__wrapper {
